@@ -1,0 +1,51 @@
+name: Update IPTV Playlists
+
+on:
+  schedule:
+    # Runs once a day at 00:00 UTC (06:00 Bangladesh time)
+    - cron: '0 0 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-playlist
+  cancel-in-progress: false
+
+jobs:
+  update-playlists:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run playlist generator
+        env:
+          XTREAM_HOST: ${{ secrets.XTREAM_HOST }}
+          XTREAM_USERNAME: ${{ secrets.XTREAM_USERNAME }}
+          XTREAM_PASSWORD: ${{ secrets.XTREAM_PASSWORD }}
+        run: python src/main.py
+
+      - name: Commit and push changed playlists only
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output
+          if git diff --cached --quiet; then
+            echo "No playlist changes detected. Nothing to commit."
+          else
+            git commit -m "chore: update IPTV playlists [skip ci]"
+            git push
+          fi
