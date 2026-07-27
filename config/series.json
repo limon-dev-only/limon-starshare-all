@@ -1,5 +1,18 @@
 {
-  "playlists": [],
+  "playlists": [
+    {
+      "category": "Chorki/Bangla",
+      "output": "chorki.m3u"
+    },
+    {
+      "category": "PAKISTANI DRAMA",
+      "output": "pkdrama.m3u"
+    },
+    {
+      "category": "ARY DIGITAL",
+      "output": "arydigital.m3u"
+    }
+  ],
 
   "validation": {
     "minimum_channels": 1,
