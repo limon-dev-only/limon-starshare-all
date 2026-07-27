@@ -1,0 +1,87 @@
+{
+  "playlists": [
+    {
+      "category": "BANGLA",
+      "output": "bd-india.m3u"
+    },
+    {
+      "category": "NETFLIX MOVIES 24/7",
+      "output": "netflix-movie_24-7.m3u"
+    },
+    {
+      "category": "PAKISTAN",
+      "output": "pakistan.m3u"
+    },
+    {
+      "category": "CRICKET",
+      "output": "cricket.m3u"
+    },
+    {
+      "category": "SPORTS | INDIA",
+      "output": "indian-sports.m3u"
+    },
+    {
+      "category": "INDIA MUSIC",
+      "output": "music.m3u"
+    },
+    {
+      "category": "KIDS",
+      "output": "kids.m3u"
+    },
+    {
+      "category": "INDIA ENGLISH MOVIES",
+      "output": "indian-english-movie.m3u"
+    },
+    {
+      "category": "INDIA HINDI MOVIES",
+      "output": "movie.m3u"
+    },
+    {
+      "category": "INDIAN SD",
+      "output": "hindi-extra.m3u"
+    },
+    {
+      "category": "INDIAN ACTIVE",
+      "output": "tata-play.m3u"
+    },
+    {
+      "category": "HINDI WEB SERIES 24X7",
+      "output": "web-series_24-7.m3u"
+    },
+    {
+      "category": "INDIA ENTERTAINMENT",
+      "output": "entertainment.m3u"
+    },
+    {
+      "category": "Bollywood Singers 24/7",
+      "output": "singer_24-7.m3u"
+    },
+    {
+      "category": "FOOTBALL",
+      "output": "football.m3u"
+    },
+    {
+      "category": "Bollywood Movies/Actors 24/7",
+      "output": "movies-actors_24-7.m3u"
+    },
+    {
+      "category": "Bollywood Movies 24/7",
+      "output": "hindi-movie_24-7.m3u"
+    },
+    {
+      "category": "BANGLA MOVIES 24/7",
+      "output": "bangla-movie_24-7.m3u"
+    },
+    {
+      "category": "FOR Adults",
+      "output": "adult.m3u"
+    }
+  ],
+
+  "validation": {
+    "minimum_channels": 1,
+    "keep_old_if_empty": true,
+    "keep_old_if_category_missing": true,
+    "max_drop_ratio": 0.5
+  }
+}
