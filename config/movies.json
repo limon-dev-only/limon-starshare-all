@@ -1,0 +1,10 @@
+{
+  "playlists": [],
+
+  "validation": {
+    "minimum_channels": 1,
+    "keep_old_if_empty": true,
+    "keep_old_if_category_missing": true,
+    "max_drop_ratio": 0.5
+  }
+}
