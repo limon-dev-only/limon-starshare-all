@@ -1,5 +1,18 @@
 {
-  "playlists": [],
+  "playlists": [
+    {
+      "category": "BANGLA (2026)",
+      "output": "bangla.m3u"
+    },
+    {
+      "category": "SOUTH INDIAN HINDI DUBBED",
+      "output": "south-hindi-dubbed.m3u"
+    },
+    {
+      "category": "INDIAN FHD (2025)",
+      "output": "India-2026.m3u"
+    }
+  ],
 
   "validation": {
     "minimum_channels": 1,
