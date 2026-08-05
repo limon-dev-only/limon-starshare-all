@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="b4ukadak.in" tvg-name="IN: B4U Kadak SD" group-title="INDIA MUSIC",IN: B4U Kadak SD
 http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/355545.ts
-#EXTINF:-1 tvg-name="IN : B4U Plus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/B4U_Plus.jpeg/revision/latest?cb=20200225090223" group-title="INDIA MUSIC",IN : B4U Plus
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/969.ts
 #EXTINF:-1 tvg-id="ts517" tvg-name="IN: Zing TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png" group-title="INDIA MUSIC",IN: Zing TV
 http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/970.ts
 #EXTINF:-1 tvg-id="mtvhdplus.in" tvg-name="IN: MTV HD PLUS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="INDIA MUSIC",IN: MTV HD PLUS
