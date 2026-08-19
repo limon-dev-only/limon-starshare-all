@@ -1,21 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="b4ukadak.in" tvg-name="IN: B4U Kadak SD" group-title="INDIA MUSIC",IN: B4U Kadak SD
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/355545.ts
-#EXTINF:-1 tvg-id="ts517" tvg-name="IN: Zing TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png" group-title="INDIA MUSIC",IN: Zing TV
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/970.ts
-#EXTINF:-1 tvg-id="mtvhdplus.in" tvg-name="IN: MTV HD PLUS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="INDIA MUSIC",IN: MTV HD PLUS
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/4029.ts
-#EXTINF:-1 tvg-id="9xm.in" tvg-name="IN: 9XM" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png" group-title="INDIA MUSIC",IN: 9XM
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/7255.ts
-#EXTINF:-1 tvg-id="b4umusic.in" tvg-name="IN: B4U Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="INDIA MUSIC",IN: B4U Music
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/7258.ts
-#EXTINF:-1 tvg-id="9xjalwa.in" tvg-name="IN: 9X Jalwa HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="INDIA MUSIC",IN: 9X Jalwa HD
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/9057.ts
-#EXTINF:-1 tvg-id="zoom.in" tvg-name="IN: Zoom" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png" group-title="INDIA MUSIC",IN: Zoom
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/9488.ts
-#EXTINF:-1 tvg-id="mtvhdplus.in" tvg-name="IN: MTV HD Plus (FHD)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="INDIA MUSIC",IN: MTV HD Plus (FHD)
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/23791.ts
-#EXTINF:-1 tvg-id="mtvhdplus.in" tvg-name="IN: MTV Plus (4K)" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA MUSIC",IN: MTV Plus (4K)
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/94499.ts
-#EXTINF:-1 tvg-id="mtvhdplus.in" tvg-name="MTV FHD (HINDI)" tvg-logo="http://ottliveeventlogo.com/wp-content/uploads/2022/11/FIFA-World-Cup-Logo.png" group-title="INDIA MUSIC",MTV FHD (HINDI)
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/130045.ts
+#EXTINF:-1 tvg-id="mtvhdplus.in" tvg-name="IN: MTV HD PLUS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="INDIA | MUSIC",IN: MTV HD PLUS
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/4029.ts
+#EXTINF:-1 tvg-id="ts517" tvg-name="IN: Zing TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png" group-title="INDIA | MUSIC",IN: Zing TV
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/970.ts
+#EXTINF:-1 tvg-id="9xm.in" tvg-name="IN: 9XM" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png" group-title="INDIA | MUSIC",IN: 9XM
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/7255.ts
+#EXTINF:-1 tvg-id="b4umusic.in" tvg-name="IN: B4U Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="INDIA | MUSIC",IN: B4U Music
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/7258.ts
+#EXTINF:-1 tvg-id="9xjalwa.in" tvg-name="IN: 9X Jalwa HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="INDIA | MUSIC",IN: 9X Jalwa HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/9057.ts
+#EXTINF:-1 tvg-id="zoom.in" tvg-name="IN: Zoom" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png" group-title="INDIA | MUSIC",IN: Zoom
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/9488.ts
+#EXTINF:-1 tvg-id="mtvhdplus.in" tvg-name="IN: MTV HD Plus (FHD)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="INDIA | MUSIC",IN: MTV HD Plus (FHD)
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/23791.ts
+#EXTINF:-1 tvg-id="mtvhdplus.in" tvg-name="IN: MTV Plus (4K)" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA | MUSIC",IN: MTV Plus (4K)
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/94499.ts
+#EXTINF:-1 tvg-id="mtvhdplus.in" tvg-name="MTV FHD (HINDI)" tvg-logo="http://ottliveeventlogo.com/wp-content/uploads/2022/11/FIFA-World-Cup-Logo.png" group-title="INDIA | MUSIC",MTV FHD (HINDI)
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/130045.ts
+#EXTINF:-1 tvg-id="b4ukadak.in" tvg-name="IN: B4U Kadak SD" group-title="INDIA | MUSIC",IN: B4U Kadak SD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/355545.ts
+#EXTINF:-1 tvg-name="IN | YRF MUSIC" group-title="INDIA | MUSIC",IN | YRF MUSIC
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/784652.ts

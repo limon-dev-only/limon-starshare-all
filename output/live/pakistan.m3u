@@ -1,91 +1,83 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="PK: Stage Shows" group-title="PAKISTAN",PK: Stage Shows
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/121365.ts
-#EXTINF:-1 tvg-id="arydigital.pk" tvg-name="PK: ARY DIGITAL (4K)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="PAKISTAN",PK: ARY DIGITAL (4K)
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/257229.ts
-#EXTINF:-1 tvg-name="PK: AanTv HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/10/Aan-TV.png" group-title="PAKISTAN",PK: AanTv HD
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/94.ts
-#EXTINF:-1 tvg-name="PK: EAWAZ TV" group-title="PAKISTAN",PK: EAWAZ TV
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/776844.ts
-#EXTINF:-1 tvg-name="PK: HBO PAKISTAN" group-title="PAKISTAN",PK: HBO PAKISTAN
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/95.ts
-#EXTINF:-1 tvg-name="PK: TAG TV" group-title="PAKISTAN",PK: TAG TV
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/96.ts
-#EXTINF:-1 tvg-name="PK: BOL ENTERTAINMENT TV" group-title="PAKISTAN",PK: BOL ENTERTAINMENT TV
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/99.ts
-#EXTINF:-1 tvg-id="urdu1.pk" tvg-name="PK: URDU 1" group-title="PAKISTAN",PK: URDU 1
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/100.ts
-#EXTINF:-1 tvg-name="PK: AAJ ENTERTAINMENT" group-title="PAKISTAN",PK: AAJ ENTERTAINMENT
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/105.ts
-#EXTINF:-1 tvg-name="PK: Z9TV DIGITAL CANDA-HD" group-title="PAKISTAN",PK: Z9TV DIGITAL CANDA-HD
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/106.ts
-#EXTINF:-1 tvg-name="PK: KHYBER TV" tvg-logo="https://yt3.ggpht.com/a/AATXAJy_C3h9vLRQEg-_75Or-aU-59XEndXkvH3JqVEp=s900-c-k-c0xffffffff-no-rj-mo" group-title="PAKISTAN",PK: KHYBER TV
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/107.ts
-#EXTINF:-1 tvg-name="PK: PASHTO TV" tvg-logo="https://lh3.googleusercontent.com/7BcNHk_TylFWQSstvC5rhq4wq8hiLnSZlps6AH9MtxrW9NkpWFVVR1mHBVjzF8VNhmpR=w412-h220-rw" group-title="PAKISTAN",PK: PASHTO TV
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/108.ts
-#EXTINF:-1 tvg-id="ptvglobal.pk" tvg-name="PK: PTV GLOBAL" group-title="PAKISTAN",PK: PTV GLOBAL
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/109.ts
-#EXTINF:-1 tvg-id="ptvhome.pk" tvg-name="PK: PTV HOME" group-title="PAKISTAN",PK: PTV HOME
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/110.ts
-#EXTINF:-1 tvg-name="PK: 8XM" tvg-logo="https://p7.hiclipart.com/preview/58/527/592/pakistan-8xm-television-channel-streaming-media-non-stop.jpg" group-title="PAKISTAN",PK: 8XM
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/112.ts
-#EXTINF:-1 tvg-name="PK: ATV" group-title="PAKISTAN",PK: ATV
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/116.ts
-#EXTINF:-1 tvg-id="tvone.pk" tvg-name="PK: TV ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Unramed.png" group-title="PAKISTAN",PK: TV ONE
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/117.ts
-#EXTINF:-1 tvg-id="expressentertainment.pk" tvg-name="PK : EXPRESS TV" group-title="PAKISTAN",PK : EXPRESS TV
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/118.ts
-#EXTINF:-1 tvg-id="geotv.pk" tvg-name="PK : GEO TV" group-title="PAKISTAN",PK : GEO TV
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/119.ts
-#EXTINF:-1 tvg-id="geokahani.pk" tvg-name="PK: GEO KAHANI-HD" group-title="PAKISTAN",PK: GEO KAHANI-HD
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/120.ts
-#EXTINF:-1 tvg-id="humtvworld.pk" tvg-name="PK : HUM TV EUROPE" group-title="PAKISTAN",PK : HUM TV EUROPE
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/121.ts
-#EXTINF:-1 tvg-id="humtv.pk" tvg-name="PK: HUM TV-HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="PAKISTAN",PK: HUM TV-HD
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/122.ts
-#EXTINF:-1 tvg-id="92news.pk" tvg-name="PK : ARY ZINDAGI" group-title="PAKISTAN",PK : ARY ZINDAGI
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/123.ts
-#EXTINF:-1 tvg-id="arydigital.pk" tvg-name="PK: ARY DIGITAL-HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="PAKISTAN",PK: ARY DIGITAL-HD
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/124.ts
-#EXTINF:-1 tvg-id="aryfamily.uk" tvg-name="PK: ARY DIGITAL (UK)" group-title="PAKISTAN",PK: ARY DIGITAL (UK)
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/125.ts
-#EXTINF:-1 tvg-name="PK : A PLUS" group-title="PAKISTAN",PK : A PLUS
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/126.ts
-#EXTINF:-1 tvg-name="PK: PLAY TV" tvg-logo="https://image.freepik.com/free-vector/play-tv-logo_68967-34.jpg" group-title="PAKISTAN",PK: PLAY TV
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/859.ts
-#EXTINF:-1 tvg-id="92news.pk" tvg-name="PK: APNA" tvg-logo="https://apna.tv/wp-content/uploads/2019/07/APNA-LOGO-NEW.png" group-title="PAKISTAN",PK: APNA
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/869.ts
-#EXTINF:-1 tvg-name="PK: PAIGAM PUSHTO" group-title="PAKISTAN",PK: PAIGAM PUSHTO
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/1846.ts
-#EXTINF:-1 tvg-id="hummasala.pk" tvg-name="PK: HUM TV MASALA" tvg-logo="https://yt3.ggpht.com/a/AATXAJxoVpGct1foR5mXifBQfUwKDEOfGFQESSBYEHg5=s900-c-k-c0xffffffff-no-rj-mo" group-title="PAKISTAN",PK: HUM TV MASALA
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/1919.ts
-#EXTINF:-1 tvg-name="PK: SAHAR TV" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/7395748383867.560bc3d33d8d5.jpg" group-title="PAKISTAN",PK: SAHAR TV
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/2014.ts
-#EXTINF:-1 tvg-name="PK: SINDH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Sindh_tv.jpg" group-title="PAKISTAN",PK: SINDH TV
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/2498.ts
-#EXTINF:-1 tvg-name="PK: SEE TV-HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/SEE_TV_logo.jpg" group-title="PAKISTAN",PK: SEE TV-HD
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/4057.ts
-#EXTINF:-1 tvg-name="PK: KTN" tvg-logo="https://i.pinimg.com/originals/55/a2/6e/55a26ec9a809b772569bbe3f2e6ec769.png" group-title="PAKISTAN",PK: KTN
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/4227.ts
-#EXTINF:-1 tvg-name="PK: KAY2" tvg-logo="https://kay2.tv/wp-content/uploads/2019/06/kay2-tv.jpg" group-title="PAKISTAN",PK: KAY2
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/5459.ts
-#EXTINF:-1 tvg-name="PK: Film Mazia" group-title="PAKISTAN",PK: Film Mazia
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/5461.ts
-#EXTINF:-1 tvg-id="92news.pk" tvg-name="PK: ARY MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png" group-title="PAKISTAN",PK: ARY MUSIC
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/18309.ts
-#EXTINF:-1 tvg-name="PK: JALWA-HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Jalwa_TV_Logo.png" group-title="PAKISTAN",PK: JALWA-HD
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/18311.ts
-#EXTINF:-1 tvg-name="PK: DISCOVER PAK-HD" group-title="PAKISTAN",PK: DISCOVER PAK-HD
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/19703.ts
-#EXTINF:-1 tvg-name="PK: HUM SITARAY" tvg-logo="https://img.favpng.com/7/25/2/pakistan-hum-tv-hum-sitaray-television-channel-png-favpng-d6aMRQiJJ4KCi9JqBf8enj21Z.jpg" group-title="PAKISTAN",PK: HUM SITARAY
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/20460.ts
-#EXTINF:-1 tvg-name="PK: SAB TV-HD" tvg-logo="https://i.ibb.co/SKNtdvG/images-2-1.png" group-title="PAKISTAN",PK: SAB TV-HD
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/24116.ts
-#EXTINF:-1 tvg-id="humtv.pk" tvg-name="PK: HUM TV (FHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="PAKISTAN",PK: HUM TV (FHD)
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/49584.ts
-#EXTINF:-1 tvg-name="PK: Green Entertainment" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-entertainment-pk.png" group-title="PAKISTAN",PK: Green Entertainment
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/152808.ts
-#EXTINF:-1 tvg-name="PK: MUN TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mun-tv-pk.png" group-title="PAKISTAN",PK: MUN TV HD
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/152835.ts
-#EXTINF:-1 tvg-name="PK: Aur Life" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aur-life-hd-pk.png" group-title="PAKISTAN",PK: Aur Life
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/152836.ts
+#EXTINF:-1 tvg-id="humtv.pk" tvg-name="PK: HUM TV (FHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="PAKISTAN | TV",PK: HUM TV (FHD)
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/49584.ts
+#EXTINF:-1 tvg-id="humtv.pk" tvg-name="PK: HUM TV-HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="PAKISTAN | TV",PK: HUM TV-HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/122.ts
+#EXTINF:-1 tvg-id="humtvworld.pk" tvg-name="PK : HUM TV EUROPE" group-title="PAKISTAN | TV",PK : HUM TV EUROPE
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/121.ts
+#EXTINF:-1 tvg-id="92news.pk" tvg-name="PK : ARY ZINDAGI" group-title="PAKISTAN | TV",PK : ARY ZINDAGI
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/123.ts
+#EXTINF:-1 tvg-id="arydigital.pk" tvg-name="PK: ARY DIGITAL (4K)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="PAKISTAN | TV",PK: ARY DIGITAL (4K)
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/257229.ts
+#EXTINF:-1 tvg-id="arydigital.pk" tvg-name="PK: ARY DIGITAL-HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="PAKISTAN | TV",PK: ARY DIGITAL-HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/124.ts
+#EXTINF:-1 tvg-id="aryfamily.uk" tvg-name="PK: ARY DIGITAL (UK)" group-title="PAKISTAN | TV",PK: ARY DIGITAL (UK)
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/125.ts
+#EXTINF:-1 tvg-id="geotv.pk" tvg-name="PK : GEO TV" group-title="PAKISTAN | TV",PK : GEO TV
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/119.ts
+#EXTINF:-1 tvg-id="geokahani.pk" tvg-name="PK: GEO KAHANI-HD" group-title="PAKISTAN | TV",PK: GEO KAHANI-HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/120.ts
+#EXTINF:-1 tvg-name="PK: BOL ENTERTAINMENT TV" group-title="PAKISTAN | TV",PK: BOL ENTERTAINMENT TV
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/99.ts
+#EXTINF:-1 tvg-id="expressentertainment.pk" tvg-name="PK : EXPRESS TV" group-title="PAKISTAN | TV",PK : EXPRESS TV
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/118.ts
+#EXTINF:-1 tvg-id="urdu1.pk" tvg-name="PK: URDU 1" group-title="PAKISTAN | TV",PK: URDU 1
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/100.ts
+#EXTINF:-1 tvg-name="PK: SAB TV-HD" tvg-logo="https://i.ibb.co/SKNtdvG/images-2-1.png" group-title="PAKISTAN | TV",PK: SAB TV-HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/24116.ts
+#EXTINF:-1 tvg-name="PK: HUM SITARAY" tvg-logo="https://img.favpng.com/7/25/2/pakistan-hum-tv-hum-sitaray-television-channel-png-favpng-d6aMRQiJJ4KCi9JqBf8enj21Z.jpg" group-title="PAKISTAN | TV",PK: HUM SITARAY
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/20460.ts
+#EXTINF:-1 tvg-name="PK: AAJ ENTERTAINMENT" group-title="PAKISTAN | TV",PK: AAJ ENTERTAINMENT
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/105.ts
+#EXTINF:-1 tvg-name="PK: ATV" group-title="PAKISTAN | TV",PK: ATV
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/116.ts
+#EXTINF:-1 tvg-id="tvone.pk" tvg-name="PK: TV ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Unramed.png" group-title="PAKISTAN | TV",PK: TV ONE
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/117.ts
+#EXTINF:-1 tvg-name="PK : A PLUS" group-title="PAKISTAN | TV",PK : A PLUS
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/126.ts
+#EXTINF:-1 tvg-id="92news.pk" tvg-name="PK: APNA" tvg-logo="https://apna.tv/wp-content/uploads/2019/07/APNA-LOGO-NEW.png" group-title="PAKISTAN | TV",PK: APNA
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/869.ts
+#EXTINF:-1 tvg-id="ptvhome.pk" tvg-name="PK: PTV HOME" group-title="PAKISTAN | TV",PK: PTV HOME
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/110.ts
+#EXTINF:-1 tvg-id="ptvglobal.pk" tvg-name="PK: PTV GLOBAL" group-title="PAKISTAN | TV",PK: PTV GLOBAL
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/109.ts
+#EXTINF:-1 tvg-name="PK: PLAY TV" tvg-logo="https://image.freepik.com/free-vector/play-tv-logo_68967-34.jpg" group-title="PAKISTAN | TV",PK: PLAY TV
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/859.ts
+#EXTINF:-1 tvg-name="PK: HBO PAKISTAN" group-title="PAKISTAN | TV",PK: HBO PAKISTAN
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/95.ts
+#EXTINF:-1 tvg-name="PK: SEE TV-HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/SEE_TV_logo.jpg" group-title="PAKISTAN | TV",PK: SEE TV-HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/4057.ts
+#EXTINF:-1 tvg-id="hummasala.pk" tvg-name="PK: HUM TV MASALA" tvg-logo="https://yt3.ggpht.com/a/AATXAJxoVpGct1foR5mXifBQfUwKDEOfGFQESSBYEHg5=s900-c-k-c0xffffffff-no-rj-mo" group-title="PAKISTAN | TV",PK: HUM TV MASALA
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/1919.ts
+#EXTINF:-1 tvg-name="PK: 8XM" tvg-logo="https://p7.hiclipart.com/preview/58/527/592/pakistan-8xm-television-channel-streaming-media-non-stop.jpg" group-title="PAKISTAN | TV",PK: 8XM
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/112.ts
+#EXTINF:-1 tvg-id="92news.pk" tvg-name="PK: ARY MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png" group-title="PAKISTAN | TV",PK: ARY MUSIC
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/18309.ts
+#EXTINF:-1 tvg-name="PK: JALWA-HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Jalwa_TV_Logo.png" group-title="PAKISTAN | TV",PK: JALWA-HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/18311.ts
+#EXTINF:-1 tvg-name="PK: PASHTO TV" tvg-logo="https://lh3.googleusercontent.com/7BcNHk_TylFWQSstvC5rhq4wq8hiLnSZlps6AH9MtxrW9NkpWFVVR1mHBVjzF8VNhmpR=w412-h220-rw" group-title="PAKISTAN | TV",PK: PASHTO TV
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/108.ts
+#EXTINF:-1 tvg-name="PK: PAIGAM PUSHTO" group-title="PAKISTAN | TV",PK: PAIGAM PUSHTO
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/1846.ts
+#EXTINF:-1 tvg-name="PK: KHYBER TV" tvg-logo="https://yt3.ggpht.com/a/AATXAJy_C3h9vLRQEg-_75Or-aU-59XEndXkvH3JqVEp=s900-c-k-c0xffffffff-no-rj-mo" group-title="PAKISTAN | TV",PK: KHYBER TV
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/107.ts
+#EXTINF:-1 tvg-name="PK: KTN" tvg-logo="https://i.pinimg.com/originals/55/a2/6e/55a26ec9a809b772569bbe3f2e6ec769.png" group-title="PAKISTAN | TV",PK: KTN
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/4227.ts
+#EXTINF:-1 tvg-name="PK: KAY2" tvg-logo="https://kay2.tv/wp-content/uploads/2019/06/kay2-tv.jpg" group-title="PAKISTAN | TV",PK: KAY2
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/5459.ts
+#EXTINF:-1 tvg-name="PK: SINDH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Sindh_tv.jpg" group-title="PAKISTAN | TV",PK: SINDH TV
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/2498.ts
+#EXTINF:-1 tvg-name="PK: DISCOVER PAK-HD" group-title="PAKISTAN | TV",PK: DISCOVER PAK-HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/19703.ts
+#EXTINF:-1 tvg-name="PK: Film Mazia" group-title="PAKISTAN | TV",PK: Film Mazia
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/5461.ts
+#EXTINF:-1 tvg-name="PK: Green Entertainment" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-entertainment-pk.png" group-title="PAKISTAN | TV",PK: Green Entertainment
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/152808.ts
+#EXTINF:-1 tvg-name="PK: MUN TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mun-tv-pk.png" group-title="PAKISTAN | TV",PK: MUN TV HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/152835.ts
+#EXTINF:-1 tvg-name="PK: Aur Life" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aur-life-hd-pk.png" group-title="PAKISTAN | TV",PK: Aur Life
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/152836.ts
+#EXTINF:-1 tvg-name="PK: AanTv HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/10/Aan-TV.png" group-title="PAKISTAN | TV",PK: AanTv HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/94.ts
+#EXTINF:-1 tvg-name="PK: EAWAZ TV" group-title="PAKISTAN | TV",PK: EAWAZ TV
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/776844.ts
