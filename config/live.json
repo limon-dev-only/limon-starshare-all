@@ -5,15 +5,15 @@
       "output": "bd-india.m3u"
     },
     {
-      "category": "NETFLIX MOVIES 24/7",
+      "category": "HINDI | NETFLIX MOVIES 24/7",
       "output": "netflix-movie_24-7.m3u"
     },
     {
-      "category": "PAKISTAN",
+      "category": "PAKISTAN | TV",
       "output": "pakistan.m3u"
     },
     {
-      "category": "CRICKET",
+      "category": "SPORTS | CRICKET",
       "output": "cricket.m3u"
     },
     {
@@ -21,55 +21,55 @@
       "output": "indian-sports.m3u"
     },
     {
-      "category": "INDIA MUSIC",
+      "category": "INDIA | MUSIC,
       "output": "music.m3u"
     },
     {
-      "category": "KIDS",
+      "category": "INDIA | KIDS",
       "output": "kids.m3u"
     },
     {
-      "category": "INDIA ENGLISH MOVIES",
+      "category": "INDIA | ENGLISH MOVIES",
       "output": "indian-english-movie.m3u"
     },
     {
-      "category": "INDIA HINDI MOVIES",
+      "category": "INDIA | HINDI MOVIES",
       "output": "movie.m3u"
     },
     {
-      "category": "INDIAN SD",
+      "category": "INDIA | SD",
       "output": "hindi-extra.m3u"
     },
     {
-      "category": "INDIAN ACTIVE",
+      "category": "INDIA | ACTIVE",
       "output": "tata-play.m3u"
     },
     {
-      "category": "HINDI WEB SERIES 24X7",
+      "category": "HINDI | WEB SERIES 24/7",
       "output": "web-series_24-7.m3u"
     },
     {
-      "category": "INDIA ENTERTAINMENT",
+      "category": "INDIA | ENTERTAINMENT",
       "output": "entertainment.m3u"
     },
     {
-      "category": "Bollywood Singers 24/7",
+      "category": "HINDI | SINGERS 24/7",
       "output": "singer_24-7.m3u"
     },
     {
-      "category": "FOOTBALL",
+      "category": "SPORTS | FOOTBALL",
       "output": "football.m3u"
     },
     {
-      "category": "Bollywood Movies/Actors 24/7",
+      "category": "HINDI | MOVIES & ACTORS 24/7",
       "output": "movies-actors_24-7.m3u"
     },
     {
-      "category": "Bollywood Movies 24/7",
+      "category": "HINDI | MOVIES 24/7",
       "output": "hindi-movie_24-7.m3u"
     },
     {
-      "category": "BANGLA MOVIES 24/7",
+      "category": "BENGALI | MOVIES 24/7",
       "output": "bangla-movie_24-7.m3u"
     },
     {
